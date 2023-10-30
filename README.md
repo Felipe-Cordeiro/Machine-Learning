@@ -1,2 +1,4 @@
 # Machine-Learning
 Destinado aos meus projetos em machine learning
+
+#Breast_tumor_classification - Me interessei por criar um modelo de classificação com esses dados pois anteriormente tive a oportunidade de trabalhar com tumores. É muito importante que não exista um erro de diagnóstico ao se fazer a biópsia de algum tecido. Existem diversos tipos de tumores e que as vezes, apresentam comportamentos e expressões gênicas bem parecidas. Esse modelo nos mostra como os dados podem nos ajudar no ramo da saúde ao classificar uma célula tumoral como maligna ou benigna. Essa classificação, junto a expertise médica colaboram para que os pacientes tenham o diagnóstico o mais rápido possível e que possam realizar os tratamentos de acordo com o grau do tumor. Sendo assim, modelos como esse ajudam a diminuir a mortalidade dos pacientes oncológicos. 
